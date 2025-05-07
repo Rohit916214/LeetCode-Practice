@@ -13,6 +13,11 @@
  *     }
  * }
  */
+
+// by using level order traversal
+
+
+/*
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
 
@@ -53,5 +58,33 @@ class Solution {
         return ans;
 
         
+    }
+}
+
+*/
+
+
+// by using recursion
+
+
+class Solution {
+    public List<Integer> rightSideView(TreeNode root) {
+
+        ArrayList<Integer> ans = new ArrayList<>();
+        Helper(root, ans, 0);
+        return ans;
+    }
+
+    private void Helper(TreeNode root, ArrayList<Integer> ans, int currLevel){
+        if(root == null){
+            return;
+        }
+
+        if(currLevel == ans.size()){
+            ans.add(root.val);
+        }
+
+        Helper(root.right, ans, currLevel + 1);
+        Helper(root.left, ans, currLevel + 1);
     }
 }
