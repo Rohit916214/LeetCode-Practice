@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Rohit916214/LeetCode-Practice/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rohit916214/LeetCode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Rohit916214/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Rohit916214/LeetCode-Practice/tree/master/0062-unique-paths) |
+## Array
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Rohit916214/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
