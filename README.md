@@ -99,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Rohit916214/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/Rohit916214/LeetCode-Practice/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
