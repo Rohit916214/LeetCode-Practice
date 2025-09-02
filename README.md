@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/Rohit916214/LeetCode-Practice/tree/master/0183-customers-who-never-order) |
+| [1292-immediate-food-delivery-ii](https://github.com/Rohit916214/LeetCode-Practice/tree/master/1292-immediate-food-delivery-ii) |
 ## Greedy
 |  |
 | ------- |
