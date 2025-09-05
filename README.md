@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Rohit916214/LeetCode-Practice/tree/master/0062-unique-paths) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Rohit916214/LeetCode-Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3830-find-closest-person](https://github.com/Rohit916214/LeetCode-Practice/tree/master/3830-find-closest-person) |
 ## Combinatorics
 |  |
 | ------- |
