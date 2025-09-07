@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Rohit916214/LeetCode-Practice/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/Rohit916214/LeetCode-Practice/tree/master/1292-immediate-food-delivery-ii) |
 | [1877-find-followers-count](https://github.com/Rohit916214/LeetCode-Practice/tree/master/1877-find-followers-count) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Rohit916214/LeetCode-Practice/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Rohit916214/LeetCode-Practice/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Greedy
 |  |
